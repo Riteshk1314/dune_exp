@@ -69,4 +69,5 @@ C++
 
 
 Python 
+<img width="1039" height="332" alt="image" src="https://github.com/user-attachments/assets/00417536-eedb-4218-affd-8c740447ded0" />
 
